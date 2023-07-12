@@ -25,5 +25,4 @@ navbar:
       href: https://github.com/ircairns      # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: default
