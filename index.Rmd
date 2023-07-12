@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome"
 ---
 
-You're up and running!
+<div align="center">My name is Ian Cairns and I enjoy statistics, film, and biking. [Read more about me here.](https://ircairns.github.io/about.html)
+
+![](pandora.png)
+</div>
