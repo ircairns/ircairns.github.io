@@ -1,9 +1,0 @@
----
-title: "About me"
----
-
-Hello, I am a recent graduate with a master's degree in statistics from [PSU](https://www.pdx.edu/). My interests are [Markov Chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo), [Monte Carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method), [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics), along with many others.
-
-Before pursuing my graduate studies, I worked as an analyst in the health insurance industry while pursuing my accreditation to become an [Actuary](https://www.soa.org/). The experience strengthened my passion for applying statistical methods to solve problems and continuously learning about new methodologies.
-
-If you have any questions or would like to connect, please don't hesitate to reach out to me via email. I'm always open to discussions and eager to help. Looking forward to hearing from you!
